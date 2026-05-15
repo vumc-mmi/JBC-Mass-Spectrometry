@@ -20,15 +20,15 @@ Generate & Export: Click "Generate Plot". The results can be exported as a high-
 
 Groups present in the data set:
 						
-#A	Wt	 Mycobacterium marinum	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl1	(A) Wt_Repl1
-#B	D PecA	 Mycobacterium marinum PecA Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl1	(B) PecA_Repl1
-#C	D PecA/B/C	 Mycobacterium marinum PecA/PecB/PecC Triple Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl1	(C) PecABC_Repl1
-#D	Wt	 Mycobacterium marinum	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl2	(D) Wt_Repl2
-#E	D PecA	 Mycobacterium marinum PecA Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl2	(E) PecA_Repl2
-#F	D PecA/B/C	 Mycobacterium marinum PecA/PecB/PecC Triple Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl2	(F) PecABC_Repl2
-#G	Wt	 Mycobacterium marinum	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl3	(G) Wt_Repl3
-#H	D PecA	 Mycobacterium marinum PecA Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl3	(H) PecA_Repl3
-#I	D PecA/B/C	 Mycobacterium marinum PecA/PecB/PecC Triple Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl3	(I) PecABC_Repl3
+A	Wt	 Mycobacterium marinum	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl1	(A) Wt_Repl1  
+B	D PecA	 Mycobacterium marinum PecA Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl1	(B) PecA_Repl1  
+C	D PecA/B/C	 Mycobacterium marinum PecA/PecB/PecC Triple Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl1	(C) PecABC_Repl1  
+D	Wt	 Mycobacterium marinum	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl2	(D) Wt_Repl2  
+E	D PecA	 Mycobacterium marinum PecA Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl2	(E) PecA_Repl2  
+F	D PecA/B/C	 Mycobacterium marinum PecA/PecB/PecC Triple Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl2	(F) PecABC_Repl2  
+G	Wt	 Mycobacterium marinum	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl3	(G) Wt_Repl3  
+H	D PecA	 Mycobacterium marinum PecA Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl3	(H) PecA_Repl3  
+I	D PecA/B/C	 Mycobacterium marinum PecA/PecB/PecC Triple Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl3	(I) PecABC_Repl3  
 
 
 DOI: 
