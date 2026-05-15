@@ -31,4 +31,4 @@ H	D PecA	 Mycobacterium marinum PecA Mutant	Surface fraction (Genapol)	FASP + OA
 I	D PecA/B/C	 Mycobacterium marinum PecA/PecB/PecC Triple Mutant	Surface fraction (Genapol)	FASP + OASIS HLB (10mg), ISD	repl3	(I) PecABC_Repl3  
 
 
-DOI: 
+[![DOI](https://zenodo.org/badge/1239865762.svg)](https://doi.org/10.5281/zenodo.20209201)
